@@ -20,8 +20,8 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.6.0
 	golang.org/x/exp v0.0.0-20190125153040-c74c464bbbf2
-	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
-	golang.org/x/text v0.3.6
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/text v0.3.8
 	gonum.org/v1/gonum v0.7.0
 	gopkg.in/neurosnap/sentences.v1 v1.0.6 // indirect
 )
